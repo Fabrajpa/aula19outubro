@@ -7,7 +7,9 @@ public class MainApp {
 
 		Random ra = new Random();
 		
-		System.out.println(ra);
+		int num = ra.nextInt();
+		
+		System.out.println(num);
 		
 	}
 
